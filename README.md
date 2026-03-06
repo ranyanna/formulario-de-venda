@@ -1,7 +1,4 @@
-# Formulário de venda
-Primeiro repositório
-
-# Formulário de Venda de Carro
+# Formulário de Venda 
 
 Projeto simples desenvolvido com HTML e CSS que simula um formulário para cadastro de veículos para venda.
 
